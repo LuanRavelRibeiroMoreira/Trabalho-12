@@ -2,7 +2,7 @@
 
 1 Baixar o código: Para baixar, basta clicar no botão (Code) depois, faz o dowload da pasta compacta e depois pode abrir o codigo dentro da pasta ou extrair-la pra outro diretorio.
 
-2 Compilar o código: Abra o terminal no local onde arquivo está, após abrir o terminal digite o comando: gcc TR4_540092.c -o teste
+2 Compilar o código: Abra o terminal no local onde os 4 arquivos estão, após abrir o terminal digite o comando: gcc TR4_540092.c -o teste
 
 3 Executando o código: No terminal, você digitará o comando: ./teste ai o seu programa estara executado:
 
