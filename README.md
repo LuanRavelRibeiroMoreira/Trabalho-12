@@ -10,4 +10,4 @@
 
 OBS: O programa mudará o comportamento caso o arquivo main.c seja alterado.
 
-OBS: Esse progama, funciona somente para Linux, caso não tenha, você pode abrir o código em um Editor online.
+OBS: Esse progama, funciona somente para Linux.
